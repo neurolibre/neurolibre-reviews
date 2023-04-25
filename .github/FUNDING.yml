@@ -1,0 +1,12 @@
+github: [CONP-PCNO,simexp,neuropoly]
+
+github:
+  - name: CONP-PCNO
+    description: Canadian Open Neuroscience Platform, McGill, QC, Canada
+    logo: https://avatars.githubusercontent.com/u/37851735?s=200&v=4
+  - name: simexp
+    description: SIMEXP Laboratory for brain simulation and exploration, UDEM, QC, Canada
+    logo: https://avatars.githubusercontent.com/u/7587387?s=200&v=4
+  - name: neuropoly
+    description: NeuroPoly, Polytechnique Montreal, QC, Canada
+    logo: https://avatars.githubusercontent.com/u/7755716?s=200&v=4
