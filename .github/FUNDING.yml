@@ -1,5 +1,3 @@
-github: [CONP-PCNO,simexp,neuropoly]
-
 github:
   - name: CONP-PCNO
     description: Canadian Open Neuroscience Platform, McGill, QC, Canada
