@@ -6,20 +6,20 @@ By publishing this NRP, you've gone beyond simply posting another traditional pr
 
 ```
 Markdown:
-[![DOI](https://neurolibre.org/papers/10.55458/neurolibre.0{{issue_id}}/status.svg)](https://doi.org/10.55458/neurolibre.0{{issue_id}})
+[![DOI](https://neurolibre.org/papers/10.55458/neurolibre.000{{issue_id}}/status.svg)](https://doi.org/10.55458/neurolibre.000{{issue_id}})
 
 HTML:
-<a style="border-width:0" href="https://doi.org/10.55458/neurolibre.0{{issue_id}}">
-  <img src="https://neurolibre.org/papers/10.55458/neurolibre.0{{issue_id}}/status.svg" alt="DOI badge" >
+<a style="border-width:0" href="https://doi.org/10.55458/neurolibre.000{{issue_id}}">
+  <img src="https://neurolibre.org/papers/10.55458/neurolibre.000{{issue_id}}/status.svg" alt="DOI badge" >
 </a>
 
 reStructuredText:
-.. image:: https://neurolibre.org/papers/10.55458/neurolibre.0{{issue_id}}/status.svg
-   :target: https://doi.org/10.55458/neurolibre.0{{issue_id}}
+.. image:: https://neurolibre.org/papers/10.55458/neurolibre.000{{issue_id}}/status.svg
+   :target: https://doi.org/10.55458/neurolibre.000{{issue_id}}
 ```
 This is how it will look in your, e.g., README:
 
-[![DOI](https://neurolibre.org/papers/10.55458/neurolibre.0{{issue_id}}/status.svg)](https://doi.org/10.55458/neurolibre.0{{issue_id}})
+[![DOI](https://neurolibre.org/papers/10.55458/neurolibre.000{{issue_id}}/status.svg)](https://doi.org/10.55458/neurolibre.000{{issue_id}})
 
 **We need your help!**
 
